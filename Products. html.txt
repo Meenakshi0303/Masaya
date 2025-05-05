@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Products - Masaya</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header><h1>Our Products</h1></header>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="products.html">Products</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+    <main>
+        <div class="product">
+            <h3>Smartwatch</h3>
+            <img src="https://via.placeholder.com/150" alt="Smartwatch">
+            <p>Track fitness, calls, and messages. Affordable and stylish.</p>
+            <a href="#" target="_blank">Buy Now</a>
+        </div>
+        <div class="product">
+            <h3>Men's Casual Jacket</h3>
+            <img src="https://via.placeholder.com/150" alt="Jacket">
+            <p>Comfortable and trendy for all seasons.</p>
+            <a href="#" target="_blank">Buy Now</a>
+        </div>
+    </main>
+    <footer><p>&copy; 2025 Masaya</p></footer>
+</body>
+</html>
